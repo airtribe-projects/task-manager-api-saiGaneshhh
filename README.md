@@ -17,9 +17,9 @@ A simple Express.js API for managing tasks using in-memory data loaded from `tas
    ```
 
 3. Open the API at:
-   ```text
+   ``text
    http://localhost:3000
-   ```
+``
 
 ## API Endpoints
 
